@@ -1,0 +1,8 @@
+# Read Me for MLB Statistical Dataset
+#https://www.kaggle.com/pschale/mlb-pitch-data-20152018
+
+# Batter ID = Assigned to unique batter per team for each year
+# Pitcher ID - Assigned to unique pitcher per team for each year
+# P Throws - Pitcher handedness (Right or Left handed)
+# Stand - Batter handedness (Right or left handed or switch hitting)
+# Event - Result of pitch (hit, walk, etc.)
