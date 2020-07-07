@@ -1,0 +1,9 @@
+# Pregnancies - # of Pregnancies a Patient Has Had
+# Glucose - Blood Glucose Readings upon Testing
+# Blood Pressure - Blood Pressure Readings upon Testing
+# Skin Thickness - Thickness of Skin (cm)
+# Insulin - Units 
+# BMI - Body Mass Index 
+# Diabetic Pedigree - Probability of Diabetes Acquisition 
+# Age - Age of Patients
+# Outcome - Diabetic or Non-Diabetic (1 or 0)
