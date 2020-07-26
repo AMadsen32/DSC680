@@ -4,7 +4,9 @@
 # Contact: augustus.madsen@bellevue.edu
 
 #[About Me](https://github.com/AMadsen32/DSC680/blob/master/README2.md)
-#Work: (https://github.com/AMadsen32/DSC680)
+
+#[Work](https://github.com/AMadsen32/DSC680)
+
 #http://github.com - automatic!
 #[GitHub](http://github.com)
 
