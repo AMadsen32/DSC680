@@ -5,5 +5,5 @@
 # Work: Linked above to respository collecton log
 # Contact: augustus.madsen@bellevue.edu
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+#http://github.com - automatic!
+#[GitHub](http://github.com)
