@@ -1,7 +1,7 @@
 # DSC680
 # Title: Welcome to Gus' Project Homepage!
 # Description: Feel free to bookmark this page.
-# About: A collection of Data Science projects from various courses throughout the Bellevue University M.S. program
+# About Me: [Bio](https://github.com/AMadsen32/DSC680/blob/master/README2.md)
 # Work: Linked above to respository collecton log
 # Contact: augustus.madsen@bellevue.edu
 
