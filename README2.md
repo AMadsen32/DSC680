@@ -1,2 +1,1 @@
-title: Welcome to Gus' Project Homepage!
-description: fgadfhadg
+# Hi! My name is Gus. 
