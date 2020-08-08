@@ -1,6 +1,5 @@
-# DSC680
-# Title: Welcome to Gus' Project Homepage!
-# Description: A collection of data science projects throughout my M.S. program in data science.
+# Gus Madsen's Project Homepage
+# A collection of data science projects throughout my M.S. program in data science.
 # Contact: augustus.madsen@bellevue.edu
 # Links to Information:
 
